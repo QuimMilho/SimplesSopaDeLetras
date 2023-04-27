@@ -1,0 +1,24 @@
+.letter {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border: 2px black solid;
+    margin-bottom: 3px;
+}
+
+.game {
+    display: flex;
+}
+
+.words {
+    margin-left: 10px;
+}
+
+.pontos {
+    border: 2px black solid;
+    padding: 3px;
+    text-align: end;
+    width: 100px;
+    min-width: 100px;
+    margin-bottom: 10px;
+}
